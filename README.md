@@ -1,6 +1,7 @@
 **@meganphan**
 
 <h1><samp>Hey, you found me! 😍<samp></h1>
+ <p>Thanks for being here.</p>
  <i>Actively looking for a full-time opportunity</i>
 <p align="center">
 <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="50px">
