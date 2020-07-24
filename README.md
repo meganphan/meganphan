@@ -14,3 +14,4 @@
 **Get in touch**
 --
 <a href="https://www.linkedin.com/in/hoangphan79/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="50px"></a>
+<a href="https://www.facebook.com/itsmeow9/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="50px"></a>
