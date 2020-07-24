@@ -6,6 +6,6 @@
  <br/>
  </p>
 <p align='center'>
- <samp>Web Development | Data Science | Machine Learning</samp>
+ <samp>Software Development | Data Science | Machine Learning</samp>
 </p>
 
