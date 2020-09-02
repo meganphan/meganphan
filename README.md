@@ -19,5 +19,5 @@
 [![Megan's github stats](https://github-readme-stats.vercel.app/api?username=meganphan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganphan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<i>* These top languages do not imply the level of skill</i>
+<i>* These top languages do not indicate my skill levels.</i>
 
