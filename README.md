@@ -16,5 +16,5 @@
 <a href="https://www.linkedin.com/in/hoangphan79/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="40px"></a>
 <a href="https://www.facebook.com/itsmeow9/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="40px"></a>
 
-[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=meganphan)](https://github.com/anuraghazra/github-readme-stats)
+[![Megan's github stats](https://github-readme-stats.vercel.app/api?username=meganphan)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=synthwave)
 
