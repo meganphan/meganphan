@@ -7,7 +7,7 @@
  <br/>
  </p>
 <p align='center'>
- <samp>Software Development | Data Science | Machine Learning</samp>
+ <samp>Full Stack Developer</samp>
 </p>
 
 
