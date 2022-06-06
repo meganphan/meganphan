@@ -12,8 +12,8 @@
 
 **Get in touch**
 --
-<a href="https://www.linkedin.com/in/hoangphan79/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="40px"></a>
-<a href="https://www.facebook.com/itsmeow9/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="40px"></a>
+<a href="https://www.linkedin.com/in/hoangphan79/"><img src="https://img.icons8.com/bubbles/50/undefined/linkedin.png" width="40px/></a>
+<a href="https://www.facebook.com/itsmeow9/"><img src="https://img.icons8.com/bubbles/50/undefined/facebook-new.png" width="40px"/></a>
 
 [![Megan's github stats](https://github-readme-stats.vercel.app/api?username=meganphan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganphan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
