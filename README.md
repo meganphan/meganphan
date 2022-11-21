@@ -12,8 +12,8 @@
 ![snake animation](https://github.com/meganphan/meganphan/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
  
 <div align="right">
-![](https://komarev.com/ghpvc/?username=meganphan&color=green&style=flat-square)
-   </div>
+![](https://komarev.com/ghpvc/?username=meganphan&color=blueviolet&style=flat-square)
+</div>
 
 **Get in touch**
 --
