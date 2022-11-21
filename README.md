@@ -9,7 +9,7 @@
  <samp>I code and design simple things :) </samp>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/meganphan/meganphan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/meganphan/meganphan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake animation](https://github.com/meganphan/meganphan/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
 **Get in touch**
