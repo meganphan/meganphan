@@ -10,10 +10,6 @@
 </p>
 
 ![snake animation](https://github.com/meganphan/meganphan/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
- 
-<div align="center">
-![profile view](https://komarev.com/ghpvc/?username=meganphan&color=blueviolet&style=flat-square)
-</div>
 
 **Get in touch**
 --
